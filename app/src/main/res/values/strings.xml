@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RandomCoffee</string>
+    <string name="your_order">Ваш заказ</string>
+    <string name="sum_of_order">Итого</string>
+    <string name="rub_s">₽</string>
+    <string name="create_order">Оформить заказ</string>
+    <string name="successful_order">Заказ создан</string>
+    <string name="error_order">Возникла ошибка при заказе</string>
+    <string name="sum_order">Итого</string>
+    <string name="hipe_mode">Хайп мод</string>
+    <string name="hipe_mode_description">Включить Хайп мод (ft. Гуненков). На конкретных устройствах может быть ограничен вендором.</string>
+    <string name="hipeing">Хайповать!</string>
+    <string name="miss">Скучать</string>
+    <string name="order_created">Заказ создан</string>
+    <string name="order_created_error">Возникла ошибка при заказе</string>
+    <string name="server_connection_error">Ошибка подключения к серверу!</string>
+    <string name="empt_prd_list">Тут ничего нет(</string>
+    <string name="empt_prd_lis_dick">Мы не успеваем так быстро придумывать новые сорта кофе, так что посмотрите лучше те, которые у нас есть... ヽ（≧□≦）ノ</string>
+    <string name="priv_page">Предыдущая страница</string>
+    <string name="please_waite">Пожалуйста подождите...</string>
+
+</resources>
